@@ -1,6 +1,6 @@
-﻿token= التوكن
-owner= الايدي مالتك
-prefix= البرفكس
-game= البلينق
+token= NTk2NzkxNjM4NTA1MDI5NjQy.XR-rpA.g3SXmyDBOpEcy2RPtYozk-ZaXTU
+owner= 407244267984125972
+prefix= s
+game= #تيم_عرب Slvexxyy
 stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
 songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
